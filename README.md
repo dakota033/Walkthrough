@@ -78,7 +78,7 @@ Step 2
 •	For this walkthrough, we will use the “forward” motion on the RC car to talk to the electric water gun
 
 
-o	Cut the blue wire (representing “forward”) from the RC motor
+    Cut the blue wire (representing “forward”) from the RC motor
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Receiver%20forward%20Wire.png)
 
 Step 3
@@ -99,10 +99,7 @@ Step 4
 •	Circled on the top left are the positive and negative voltages that connect to the battery (included in the water gun box)
 
 
-•	Circled on the right is the trigger that when pushed, tells the gun to fire the water 
-
-
-o	Therefore, this means that a simple completion of the circuit is needed in order for the gun to operate
+•	Circled on the right is the trigger that when pushed, tells the gun to fire the water. Therefore, this means that a simple completion of the circuit is needed in order for the gun to operate
 
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Water%20Gun%20Disassembly.png)
 
