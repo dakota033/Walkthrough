@@ -92,5 +92,59 @@ Step 4
 
 o	Therefore, this means that a simple completion of the circuit is needed in order for the gun to operate
 
-![image alt]
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Water%20Gun%20Disassembly.png)
 
+•	Below is another angle of the water gun. The button for the trigger is circled
+
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Water%20Gun%20Disassembly%202.png)
+
+Step 5
+•	Cut both the black and red wires connecting the water gun to the battery connector (black plastic piece)
+
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/water%20Gun%20Power.png)
+
+Step 6
+•	Cut the black and red wires on the water gun battery 
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Water%20Gun%20Battery.png)
+
+Step 7
+•	Cut both the red wires on the water gun that acts as the trigger
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Water%20Gun%20Disassembly%202.png)
+
+Step 8
+•	Solder the black cable (negative voltage) on the RC car receiver to both the black cable on the water gun and the black cable on the included battery
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Negative%20Voltage%20Solder.png)
+
+Step 9
+•	Solder the red (positive voltage) on the water gun to the blue “forward” cable on the RC car receiver
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Forward%20and%20Positive%20Voltage%20Solder.png)
+
+
+At this point the electric water gun should be able to fire when the “forward” command on the RC car is sent to the receiver. If not, verify your connections.
+Step 10
+•	Now that you have verified that the forward motion command works with electric water gun, cut the remaining 3 wires on the receiver excluding the white Antenna wire
+
+
+o	Yellow: Back motion
+
+
+o	White: Left motion
+
+
+o	Green: Right motion
+
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Remove%20extra%20wiring.png)
+
+Step 11
+•	Insulate the newly soldered wire (optional)
+
+
+•	Reassemble the electric water gun
+
+
+o	Note: Personal choice for how to put the receiver and battery back into the electric water gun. I put the receiver in the gun and lazily taped the battery to the side with the antenna
+
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Assembled%20Water%20Gun.png)
+
+Now you should have an electric water gun that can fire wirelessly
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Final%20Product.png)
