@@ -4,9 +4,23 @@ This write-up details a method for remotely triggering an electric water gun usi
 
 
 Equipment Needed:
+
+
 •	1x: Electrically powered water gun (I used the gun attached below via AliExpress)
+
+
 •	1x: Remote Control car (I used the car attached below via Amazon)
+
+
 •	1x: Philips head screwdriver
+
+
 •	1x: Soldering iron
+
+
 •	1x: Scissors
+
+
 •	1x: Heat gun (optional)
+
+
