@@ -7,7 +7,7 @@ Equipment Needed:
 
 
 •	1x: Electrically powered water gun (I used the gun attached below via AliExpress)
-
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Screenshot%202024-11-01%20143343.png?raw=true)
 
 •	1x: Remote Control car (I used the car attached below via Amazon)
 
