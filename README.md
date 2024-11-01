@@ -121,6 +121,8 @@ Step 9
 
 
 At this point the electric water gun should be able to fire when the “forward” command on the RC car is sent to the receiver. If not, verify your connections.
+
+
 Step 10
 •	Now that you have verified that the forward motion command works with electric water gun, cut the remaining 3 wires on the receiver excluding the white Antenna wire
 
