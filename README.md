@@ -173,4 +173,6 @@ o	Note: Personal choice for how to put the receiver and battery back into the el
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Assembled%20Water%20Gun.png)
 
 Now you should have an electric water gun that can fire wirelessly
+
+
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Final%20Product.png)
