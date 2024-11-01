@@ -25,6 +25,8 @@ Equipment Needed:
 
 
 Step 0
+
+
 •	Make sure that both the RC car and the electric water gun operate as intended before disassembly. This is to ensure that any components are not faulty during troubleshooting when required
 
 
