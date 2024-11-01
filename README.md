@@ -37,13 +37,29 @@ Step 1
 
 •	Identify what each wire connects to without disconnecting any wires
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/RC%20Receiver.png)
+
+
 •	Based on the information given on the board, descriptions for each wire are as follows:
+
+
     o	Yellow: Back motion
+
+    
     o	Blue: Forward motion
+
+    
     o	Black: Negative Voltage
+
+    
     o	Top White: Receiver Antenna
+
+    
     o	Bottom White: Turn left
+
+    
     o	Green: Turn Right
+
+    
     o	Red: Positive Voltage
 
 
@@ -56,3 +72,25 @@ Step 2
 
 o	Cut the blue wire (representing “forward”) from the RC motor
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Receiver%20forward%20Wire.png)
+
+Step 3
+•	Cut the black and red wires connecting the RC car batteries to the receiver
+
+
+Step 4
+•	Disassemble the electric water gun via Philips screwdriver
+
+
+•	Identify each wire on the water gun 
+
+
+•	Circled on the top left are the positive and negative voltages that connect to the battery (included in the water gun box)
+
+
+•	Circled on the right is the trigger that when pushed, tells the gun to fire the water 
+
+
+o	Therefore, this means that a simple completion of the circuit is needed in order for the gun to operate
+
+![image alt]
+
