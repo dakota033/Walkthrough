@@ -78,7 +78,7 @@ Step 2
 •	For this walkthrough, we will use the “forward” motion on the RC car to talk to the electric water gun
 
 
-    Cut the blue wire (representing “forward”) from the RC motor
+• Cut the blue wire (representing “forward”) from the RC motor
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Receiver%20forward%20Wire.png)
 
 Step 3
