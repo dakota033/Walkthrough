@@ -113,6 +113,7 @@ Step 7
 
 Step 8
 •	Solder the black cable (negative voltage) on the RC car receiver to both the black cable on the water gun and the black cable on the included battery
+
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Negative%20Voltage%20Solder.png)
 
 Step 9
