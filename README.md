@@ -33,3 +33,7 @@ Step 0
 Step 1
 •	Unscrew the RC car shell via Philips screwdriver
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Opened%20Car.png)
+
+
+•	Identify what each wire connects to without disconnecting any wires
+![image alt]
