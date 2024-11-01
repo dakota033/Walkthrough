@@ -38,17 +38,21 @@ Step 1
 •	Identify what each wire connects to without disconnecting any wires
 ![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/RC%20Receiver.png)
 •	Based on the information given on the board, descriptions for each wire are as follows:
-o	Yellow: Back motion
-o	Blue: Forward motion
-o	Black: Negative Voltage
-o	Top White: Receiver Antenna
-o	Bottom White: Turn left
-o	Green: Turn Right
-o	Red: Positive Voltage
+    o	Yellow: Back motion
+    o	Blue: Forward motion
+    o	Black: Negative Voltage
+    o	Top White: Receiver Antenna
+    o	Bottom White: Turn left
+    o	Green: Turn Right
+    o	Red: Positive Voltage
 
 
 Step 2
 •	Remove the motors and receiver from RC car shell
+
+
 •	For this walkthrough, we will use the “forward” motion on the RC car to talk to the electric water gun
+
+
 o	Cut the blue wire (representing “forward”) from the RC motor
-![image alt](
+![image alt](https://github.com/dakota033/Wireless-Electric-Water-Gun/blob/main/Receiver%20forward%20Wire.png)
