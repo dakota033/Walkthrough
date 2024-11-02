@@ -2,7 +2,7 @@
 This write-up details a method for remotely triggering an electric water gun using an RC car receiver. The approach is to bypass the electric gun trigger mechanism and solder it to the RC car transmitter, in this case it was the “forward” command from the controller. When the forward command input is given to the receiver via RC car controller, this will complete the circuit and make the electric water gun “activate”.
 
 
-*disclaimer: if you want to revharge the battery it is recommended to solder either a different battery type or a plugin to recharge the battery. This is only a proof of concept
+*disclaimer: if you want to recharge the battery it is recommended to solder either a different battery type or a plugin to recharge the battery. This is only a proof of concept and is not intended to allow easy recharging
 
 
 Equipment Needed:
